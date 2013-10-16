@@ -1,0 +1,11 @@
+pwd
+cd Downloads/funsets/
+ls
+sbt
+sbt
+/usr/local/Cellar/sbt/0.13.0/bin/sbt 
+/usr/local/Cellar/sbt/0.13.0/bin/sbt 
+cd ../../../
+cd ../
+ls
+/usr/local/Cellar/sbt/0.13.0/bin/sbt 
